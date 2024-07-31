@@ -101,10 +101,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The [Kaggle Cats vs Dogs Dataset](https://www.kaggle.com/c/dogs-vs-cats) for the data used in this project.
 - [TensorFlow](https://www.tensorflow.org/) or [PyTorch](https://pytorch.org/) for the deep learning framework.
 
-## Contact
 
-For any questions or comments, please open an issue on GitHub or contact me at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Feel free to adjust the sections or add any additional information relevant to your project.
