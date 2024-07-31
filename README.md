@@ -1,6 +1,3 @@
-Sure thing, Jayanth! Here's a template for a `README.md` file for a Cats vs. Dogs classifier project. Feel free to modify it according to your specific implementation details.
-
----
 
 # Cats vs Dogs Classifier
 
